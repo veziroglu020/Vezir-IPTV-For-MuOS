@@ -21,8 +21,7 @@ Vezir IPTV, retro el konsollarınızda (RG35XX vb.) modern ve akıcı bir TV izl
 
 ⚡ MPV Gücü: MPV oynatıcı altyapısı ile donanım hızlandırmalı, takılmadan video oynatma.
 
-🇬🇧 English Description (For README / Global Releases)
-Vezir IPTV V60 - Ultimate Edition
+Vezir IPTV V1.0 
 The Most Comprehensive IPTV Experience for muOS
 
 Vezir IPTV is designed to provide a modern and fluid TV viewing experience on your retro handheld consoles (RG35XX, etc.). It's not just a player; it's a fully-equipped multimedia hub that can be managed via the web, test your internet speed, and is enriched with stunning visual effects.
